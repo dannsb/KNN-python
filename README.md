@@ -37,3 +37,6 @@ To install the necessary dependencies:
 
 ```bash
 pip install numpy
+pip install -U scikit-learn
+```
+ 
