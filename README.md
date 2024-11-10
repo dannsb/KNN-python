@@ -21,7 +21,7 @@ This repository contains a custom implementation of the K-Nearest Neighbors (KNN
 ### Scikit-learn (Optional)
 ![scikit-learn Logo](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
 - **Purpose**: If desired, `scikit-learn` can be used to validate our custom KNN model by comparing its predictions to those of the library's KNN model.
-- **Where Used**: This project doesn't use `scikit-learn`'s KNN, but if you'd like to compare or use other utilities, install `scikit-learn` as an optional dependency.
+- **Where Used**: This project doesn't use `scikit-learn`'s KNN, only use to load dataset and split up the test and train.
 
 ## Code Structure
 
